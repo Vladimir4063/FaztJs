@@ -9,5 +9,6 @@ function Person(){
 const person = new Person()
 person.name = "Vladimir"
 person.latname = "Gutierrez"
+console.log(person);
 console.log(person.name)
 console.log(person.latname)
